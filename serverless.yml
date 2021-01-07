@@ -1,6 +1,8 @@
 
 
 service: exampleserverless
+package:
+  individually: true
 frameworkVersion: '2'
 
 provider:
