@@ -5,6 +5,6 @@ def helloFunction(event, context):
     # TODO implement
     return {
         'statusCode': 200,
-        'body': json.dumps('Hello Suraj!!!!!!!!!!!')
+        'body': json.dumps('Hello Welcome')
     }
    
